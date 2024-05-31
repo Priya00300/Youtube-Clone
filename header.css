@@ -1,0 +1,32 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.left{
+    
+    
+    display: flex;
+    align-items: center;
+}
+.middle{
+    background-color: lightcoral;
+    flex: 1;
+    margin-right: 35px;
+    margin-left: 70px;
+    max-width: 500px;
+}
+.right{
+    background-color: aquamarine;
+    width: 200px;
+}
+.box{
+    height: 20px;
+    margin-left: 20px;
+}
+.logo{
+    height: 50px;
+}
